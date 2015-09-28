@@ -2,7 +2,7 @@
 Mapping of Yelp's Business Data to Elastic Search with Geo-sharding. 
 
 [![Stories in progress](https://badge.waffle.io/ashwintumma23/YelpBusinessDataToElasticSearch.svg?label=In%20Progress&title=In%20Progress)](http://waffle.io/ashwintumma23/YelpBusinessDataToElasticSearch)
-[![Stories in progress](https://badge.waffle.io/ashwintumma23/YelpBusinessDataToElasticSearch.svg?label=In%20Progress&title=In%20Progress)](http://waffle.io/ashwintumma23/YelpBusinessDataToElasticSearch)
+[![Stories Done](https://badge.waffle.io/ashwintumma23/YelpBusinessDataToElasticSearch.svg?label=Done&title=Done)](http://waffle.io/ashwintumma23/YelpBusinessDataToElasticSearch)
 ### Motivation
 This entire project is inspired from this Tech talk: [Evolution of ElasticSearch at Yelp](https://speakerdeck.com/elastic/the-evolution-of-elastic-search-at-yelp). A few slides towards the end, the talk highlights some of the future activities that will be done at Yelp using ElasticSearch. One of which is moving of Business data to ElasticSearch, and support better Geo-sharding. This project is my attempt to move business data meticulously on ElasticSearch cluster, and visualize it. 
 
