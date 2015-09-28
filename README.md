@@ -1,5 +1,4 @@
 # Yelp Business Data to ElasticSearch
-=========
 Mapping of Yelp's Business Data to Elastic Search with Geo-sharding. 
 
 [![Stories in Ready](https://badge.waffle.io/ashwintumma23/YelpBusinessDataToElasticSearch.svg?label=ready&title=Ready)](http://waffle.io/ashwintumma23/YelpBusinessDataToElasticSearch)
